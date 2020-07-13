@@ -7,13 +7,18 @@ Sou desenvolvedor web full-stack e estas são as stacks e ferramentas que tenho 
 - Git e GitHub
 - HTML5
 - CSS
+- Bootstrap
+- Materialize
 - JavaScript
 - React
 - Redux
+- Material UI
 - TypeScript
 - Node
 - Express
-- Jest
+- JSON Web Token
+- Bcrypt
+- Testes Automatizados com JEST
 - MySQL
 - AWS
 - Firebase
