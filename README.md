@@ -10,7 +10,8 @@ Sou desenvolvedor web full-stack e estas são as stacks e ferramentas que tenho 
 - Bootstrap
 - Materialize
 - JavaScript
-- React
+- React.JS
+- React Native
 - Redux
 - Material UI
 - TypeScript
