@@ -26,6 +26,7 @@ Sou desenvolvedor web full-stack e estas são as stacks e ferramentas que tenho 
 - TypeScript
 - Orientação a Objetos
 - Arquitetura de Software
+- SOLID
 - Node.js
 - NestJS
 - Docker
