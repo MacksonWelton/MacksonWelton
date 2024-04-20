@@ -2,47 +2,54 @@
 
 [Clique aqui e visite meu portfólio](https://macksonwelton.vercel.app)
 
-Sou desenvolvedor web full-stack e estas são as stacks e ferramentas que tenho conhecimento:
+#### Ferramentas de Desenvolvimento:
+**Edição de Código:** Visual Studio Code
+**Testes: Postman** (APIs), Jest (Testes Unitários), Cypress (Testes de Integração e E2E)
+**Metodologias Ágil**
 
-- Git
-- GitHub
-- HTML5
-- CSS3
-- SASS
-- Styled-Components
-- Bootstrap
-- Material UI
-- Tailwind
-- JavaScript
-- React
-- React Native
-- NextJS
-- GatsbyJS
-- Angular
-- API REST
-- GraphQL
-- Metodologia Ágil
-- Teste Unitários com Jest
-- TypeScript
-- Orientação a Objetos
-- Arquitetura de Software
-- SOLID
-- Node.js
-- NestJS
-- Docker
-- Express.js
-- MySQL
-- MongoDB
-- SQL
-- TypeORM
-- Prisma
-- AWS Cognito
-- AWS Lambda
-- AWS SQS e SNS
-- AWS Api Gatway
-- AWS Cloudwatch
-- AWS EventBridge
-- Firebase Cloud Messaging
+#### Linguagens de Programação:
+**Front-end e Back-end:** TypeScript, JavaScript
+
+#### Paradigmas de Desenvolvimento:
+Orientação a Objetos (OO), Arquitetura de Software (SOLID)
+
+#### Front-end:
+**Tecnologias Básicas:** HTML5, CSS3
+**Preprocessadores CSS:** SASS
+**Bibliotecas de Componentes:** Styled-Components, Bootstrap, Material UI, Tailwind CSS
+**JavaScript:** JavaScript (Vanila/Escreve seu próprio código)
+**Frameworks JavaScript:** React, React Native (Mobile), Next.js (Aplicações Web Estáticas e SSG), Gatsby.js (Sites Estáticos Gerados), Angular (Opcional)
+
+#### APIs e Back-end:
+**Estilos de Arquitetura:** REST API, GraphQL
+**Frameworks Back-end:** Node.js (JavaScript), NestJS (JavaScript), Express.js (JavaScript)
+**Contêinerização:** Docker
+
+#### Desenvolvimento Back-end:
+**Linguagens de Programação:** TypeScript, JavaScript
+
+#### Ferramenta de Documentação:
+**Swagger**
+
+#### Bancos de Dados:
+**Relacionais:** MySQL
+**Não Relacionais:** MongoDB
+**Tecnologias de Banco de Dados:** SQL, TypeORM, Prisma
+
+#### Serviços em Nuvem:
+**Autenticação:** AWS Cognito
+**Funções sem Servidor:** AWS Lambda
+**Fila de Mensagens:** AWS SQS e SNS
+**API Gateway:** AWS API Gateway
+**Monitoramento:** AWS CloudWatch
+**Orquestração de Eventos:** AWS EventBridge
+
+#### Mensageria em Nuvem:
+**Firebase Cloud Messaging**
+
+Apaixonado por criar soluções inovadoras e eficientes, trabalho em equipe para alcançar os melhores resultados. Acredito na comunicação clara e na colaboração como chaves para o sucesso em projetos de software.
+
+Estou sempre em busca de novas tecnologias e aprendizados. Se você busca um desenvolvedor experiente, engajado e apaixonado por tecnologia, entre em contato!
 
 <div align="center">
 
